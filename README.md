@@ -15,15 +15,14 @@ This is the backend service for **Template Cloner**, a tool that allows users to
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Rationale
 
-* **Node.js**
-* **Express.js**
-* **Supabase(PostgreSQL)+Prisma ORM**
-* **dotenv** (environment variable management)
-* **CORS**
+* **Node.js** — Fast and scalable runtime for building server-side applications.
+* **Express.js** — Minimal and flexible web framework for routing and middleware support.
+* **PostgreSQL + Prisma ORM** — SQL database with a efficient ORM.
+* **dotenv** — Loads environment variables to keep secrets out of source code.
+* **CORS** — Enables controlled access across different domains.
 
----
 
 ## 📁 Project Structure
 
@@ -57,7 +56,7 @@ npm install
 
 ### 3. Set up Environment Variables
 
-Create a `.env` file based on `.env.example`:
+Create a `.env` file:
 
 ```
 PORT=5000
@@ -94,6 +93,8 @@ npm run dev
 *Screenshots*
 Testing:
 ![WhatsApp Image 2025-05-30 at 23 51 22_90dcbe25](https://github.com/user-attachments/assets/085b4b1e-7508-4a5c-bb68-f8f2387578bc)
+
+
 ![WhatsApp Image 2025-05-30 at 23 51 34_dae4f925](https://github.com/user-attachments/assets/e243cfbe-2b40-44b4-9b05-f5bcdb4cf81b)
 
 
