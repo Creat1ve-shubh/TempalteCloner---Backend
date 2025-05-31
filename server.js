@@ -18,4 +18,4 @@ app.use('/templates', routes);
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}`));
 // This is the main server file that sets up the Express server, applies middleware, and mounts the template routes.
-// It listens on a specified port and allows CORS for a specific frontend origin.
+// It works on 8080 port and allows CORS for a specific frontend origin (port 5173).
