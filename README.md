@@ -95,7 +95,8 @@ Testing(Postman):
 
 POST req:
 
-![WhatsApp Image 2025-05-30 at 23 51 22_90dcbe25](https://github.com/user-attachments/assets/085b4b1e-7508-4a5c-bb68-f8f2387578bc)
+![image](https://github.com/user-attachments/assets/edcb09e3-8ac1-4916-8806-ef7e1f46431b)
+
 
 GET req:
 
