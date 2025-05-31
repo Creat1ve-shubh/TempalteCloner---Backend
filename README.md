@@ -91,10 +91,19 @@ npm run dev
 
 ---
 *Screenshots*
-Testing:
+Testing(Postman):
+
+POST req:
+
 ![WhatsApp Image 2025-05-30 at 23 51 22_90dcbe25](https://github.com/user-attachments/assets/085b4b1e-7508-4a5c-bb68-f8f2387578bc)
 
+GET req:
 
 ![WhatsApp Image 2025-05-30 at 23 51 34_dae4f925](https://github.com/user-attachments/assets/e243cfbe-2b40-44b4-9b05-f5bcdb4cf81b)
+
+Supabase Db:
+
+![image](https://github.com/user-attachments/assets/62486978-09c5-4f9a-a498-48593a313f80)
+
 
 
