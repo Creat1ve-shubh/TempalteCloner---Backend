@@ -9,7 +9,7 @@ This is the backend service for **Template Cloner**, a tool that allows users to
 * 🔐 **Authentication** (Stub auth)
 * 📂 **Template Management** (Create, Read)
 * 🔗 **Project Cloning Endpoint**
-* 🧪 **Basic Testing Setup** (Jest/Supertest)
+* 🧪 **Basic Testing Setup** (Pending/Use Postman)
 * 🌐 **RESTful API Design**
 * 📦 **Modular Codebase Structure**
 
