@@ -100,6 +100,8 @@ npm run dev
 
  (not included yet).
 
+*API Testing platform like Postman can be used*
+
 ---
 *Screenshots*
 Testing(Postman):
