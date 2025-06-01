@@ -39,6 +39,17 @@ This is the backend service for **Template Cloner**, a tool that allows users to
 ```
 
 ---
+```bash
+Git Branches
+├── Main  //Main branch holding production code
+├── UI    //UI/UX based changes staged here
+├── Testing  //Testing based changes staged here
+├── Connectivity  //Network based changes staged here
+
+
+```
+---
+---
 
 ## ⚙️ Getting Started
 
